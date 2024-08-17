@@ -1,7 +1,7 @@
 check-manifest==0.41
 coverage>=5.0.3
 cryptography>=2.8
-eventlet==0.25.1  # issue #254
+eventlet==0.33.3
 flake8>=3.7.9
 freezegun>=0.3.15
 httplib2>=0.17.0
